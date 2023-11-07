@@ -2,7 +2,7 @@
 
 ## Description
 
-Eco-Wallet App is a basic web application that helps users calculate the cost of purchasing gasoline based on their selected type, quantity, and membership type. It offers discounts for different membership levels, making fuel purchases more cost-effective.
+Eco-Wallet App is a basic web application that helps users calculate the cost of purchasing gasoline based on their selected type, quantity, and membership type. It offers discounts for different membership levels, making fuel purchases more cost-effective. You can [visit the live site here 💳](https://aysemerveksv.github.io/GasStationApp/). 
 
 ## Features
 
